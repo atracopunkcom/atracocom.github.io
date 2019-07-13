@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+<title>ATRACO</title>
+<meta property="og:title" content="Social" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="ATRACO. Banda de musica de Punk Rock, Alternative, Hard Rock, basada en Aibonito, Puerto Rico y San Juan, Puerto Rico. Atraco Punk. Atraco Aibonito." />
+<meta property="og:description" content="ATRACO. Banda de musica de Punk Rock, Alternative, Hard Rock, basada en Aibonito, Puerto Rico y San Juan, Puerto Rico. Atraco Punk. Atraco Aibonito." />
+<link rel="canonical" href="https://atraco.stream/" />
+<meta property="og:url" content="https://atraco.stream/" />
+<meta property="og:site_name" content="ATRACO" />
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="{{ site.github.url }}"> <img src="logo.png" alt="ATRACO" /> </a>
+        <p style="text-align:center;width:100%;">PUNK, AIBONITO, PUERTO RICO</p>
+        <p style="text-align:center;width:100%;"><a href="http://atracopunk.bandcamp.com">atracopunk.bandcamp.com </a><br />
+        <a href="http://facebook.com/atracopunk">facebook.com/atracopunk</a><br />
+        <a href="http://soundcloud.com/atraco-punk">soundcloud.com/atraco-punk</a></p>
+        <p style="text-align:center;width:100%;"><a href="http://atraco.stream/album">noticias</a></p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by orderedlist</small></p>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+
+  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}
+  </body>
+</html>
