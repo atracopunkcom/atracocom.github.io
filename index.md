@@ -1,5 +1,12 @@
+## Por los muchachos del barrio
+
+<iframe id="yt1" style="width:100%;" src="https://www.youtube.com/embed/rg_DoeKLISE" frameborder="0" allowfullscreen></iframe>
 
 ## Retrato del colonizador
+
+<iframe id="yt1" style="width:100%;" src="https://www.youtube.com/embed/dtt1_vKqvAs" frameborder="0" allowfullscreen></iframe>
+
+## Retrato del colonizador - Letra
 
 <iframe id="yt1" style="width:100%;" src="https://www.youtube.com/embed/OXx7bF2czyw" frameborder="0" allowfullscreen></iframe>
 
