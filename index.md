@@ -1,7 +1,3 @@
-## Los muchachos del barrio
-
-<iframe id="sp1" src="https://open.spotify.com/embed/album/6ZLBxFv1eFc6oN90yeNK7P" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 ## Mundo De Mentiras
 
 Nuestra canción Mundo De Mentiras es parte de la compilación musical <a href="https://soundcloud.com/el-esperanto-830244470">El Esperanto P.R</a>.
