@@ -3,7 +3,7 @@
 <br />
 ### Mundo De Mentiras
 
-Nuestra canción Mundo De Mentiras es parte de la compilación musical <a href="https://soundcloud.com/el-esperanto-830244470">El Esperanto P.R</a>.
+Nuestra canción Mundo De Mentiras es parte de la compilación musical <a style="color:#fff;" href="https://soundcloud.com/el-esperanto-830244470">El Esperanto P.R</a>.
 
 <a href="https://soundcloud.com/el-esperanto-830244470"><img style="width:100px;height:100px;" src="comp.jpg"/></a>
 
