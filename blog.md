@@ -3,7 +3,7 @@
 <br />
 ### Mundo De Mentiras
 
-Nuestra canción Mundo De Mentiras es parte de la compilación musical de punk rock <a style="color:#fff;" href="https://soundcloud.com/el-esperanto-830244470">El Esperanto P.R</a>.
+Nuestra canción Mundo De Mentiras es parte de la compilación musical punk rock <a style="color:#fff;" href="https://soundcloud.com/el-esperanto-830244470">El Esperanto P.R</a>.
 
 <a href="https://soundcloud.com/el-esperanto-830244470"><img style="width:100px;height:100px;" src="comp.jpg" alt="Compilación musical El Esperanto P.R" /></a>
 
@@ -35,7 +35,7 @@ Nuestra canción Mundo De Mentiras es parte de la compilación musical de punk r
 <br />
 ### Nosotros
 <br />
-Atraco - Punk Rock - Aibonito - Puerto Rico <br /> <br />
+Atraco - Punk Rock - Música - Aibonito - Puerto Rico <br /> <br />
 <img src="nosotros.png" alt="Integrantes ATRACO"/>
 
 
