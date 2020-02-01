@@ -5,7 +5,7 @@
 
 Nuestra canción Mundo De Mentiras es parte de la compilación musical <a style="color:#fff;" href="https://soundcloud.com/el-esperanto-830244470">El Esperanto P.R</a>.
 
-<a href="https://soundcloud.com/el-esperanto-830244470"><img style="width:100px;height:100px;" src="comp.jpg"/></a>
+<a href="https://soundcloud.com/el-esperanto-830244470"><img style="width:100px;height:100px;" src="comp.jpg" alt="Compilación musical El Esperanto P.R" /></a>
 
 
 <iframe id="sc1" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/736071229&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -35,6 +35,6 @@ Nuestra canción Mundo De Mentiras es parte de la compilación musical <a style=
 <br />
 ### Nosotros
 
-<img src="nosotros.png"/>
+<img src="nosotros.png" alt="Integrantes ATRACO"/>
 
 
