@@ -7,5 +7,5 @@ Nuestro primer álbum, Los muchachos del barrio, ya está disponible. Escúchalo
 
 ## Nuevo álbum
 
-Estamos contentos de anunciarles que ya está disponible nuestro nuevo álbum: Los muchachos del Barrio. Este es el primer álbum de nuestra discografía, el cual grabamos en Trujillo Alto, Puerto Rico. Este álbum, de música punk rock con nuestro único estilo, consta de 11 canciones escritas por los pasados años. Los muchachos del Barrio fue grabado entre los años 2019-2020. Disfruten del álbum en las plataformas digitales.
+Estamos contentos de anunciarles que ya está disponible nuestro nuevo álbum: Los muchachos del Barrio. Este es el primer álbum de nuestra discografía, el cual grabamos en Trujillo Alto, Puerto Rico. Este álbum, de música punk rock con nuestro único estilo desde Aibonito, Puerto Rico, consta de 11 canciones escritas por los pasados años. Los muchachos del Barrio fue grabado entre los años 2019-2020. Disfruten del álbum en las plataformas digitales. 
 
